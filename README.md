@@ -1,16 +1,17 @@
-# flutter_application_1
+# halaman Login 
+<img width="790" height="1638" alt="image" src="https://github.com/user-attachments/assets/173bba51-4c10-44d3-9ad0-e68eab47d5cc" />
 
-A new Flutter project.
+# halaman beranda 
+<img width="774" height="1638" alt="image" src="https://github.com/user-attachments/assets/fade992e-f9d7-498c-b725-052e91c0e6ff" />
 
-## Getting Started
+# halaman tugas penting
+<img width="784" height="1578" alt="image" src="https://github.com/user-attachments/assets/c8a88f98-af38-4717-a923-a0dccd9291f7" />
 
-This project is a starting point for a Flutter application.
+# halaman tugas biasa
+<img width="784" height="1660" alt="image" src="https://github.com/user-attachments/assets/f6df329d-11bb-462b-a5a4-79a8e336e7a1" />
 
-A few resources to get you started if this is your first Flutter project:
+# halaman daftar tugas
+<img width="770" height="1204" alt="image" src="https://github.com/user-attachments/assets/66b44b4c-62d9-4b71-9ef5-7b99586231fa" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# halanman pengaturan
+<img width="772" height="1546" alt="image" src="https://github.com/user-attachments/assets/5d7049c1-0560-440b-9e1d-6352a6695c6c" />
